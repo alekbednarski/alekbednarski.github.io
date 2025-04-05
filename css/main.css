@@ -50,9 +50,10 @@ a:hover {
   clear: both;
 }
 
- .wrapper img {
-   object-fit: fill;
- }
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 /* Header */
 .site-header {

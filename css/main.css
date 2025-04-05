@@ -50,6 +50,10 @@ a:hover {
   clear: both;
 }
 
+ .wrapper img {
+   object-fit: fill;
+ }
+
 /* Header */
 .site-header {
   /border-top: 12px solid #e8e8e8;

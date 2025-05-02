@@ -5,8 +5,8 @@ body {
   font-size: 16px;
   line-height: 2;
   font-weight: 300;
-  color: #111;
-  background-color: #392C3A;
+  color: #fdf7ff;
+  background-color: #26002b;
   -webkit-text-size-adjust: 100%;
   margin: 0;
   padding-top: 0;
@@ -53,18 +53,18 @@ a:hover {
 img {
   max-width: 100%;
   height: auto;
-  border: 1px solid #ddd;
+  border: 1px solid #fdf7ff;
   border-radius: 4px;
   padding: 5px;
 }
 
 /* Header */
 .site-header {
-  /border-top: 12px solid #e8e8e8;
-  border-bottom: 1px solid #e8e8e8;
+  /border-top: 12px solid #fdf7ff;
+  border-bottom: 1px solid #fdf7ff;
   min-height: 56px;
   position: relative;
-  background: #e8e8e8e8;
+  background: #fdf7ffe8;
 }
 
 .site-title {
@@ -138,7 +138,7 @@ img {
 
 /* Footer */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid #fdf7ff;
   padding: 10px 0;
 }
 

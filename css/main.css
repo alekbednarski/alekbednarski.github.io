@@ -163,6 +163,6 @@ img {
   font-size: 20px;
 }
 
-#embed-badge {
-	display: none;
+.picflow-gallery-container #embed-badge {
+	visibility: hidden;
 }

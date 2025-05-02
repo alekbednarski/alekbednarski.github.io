@@ -73,11 +73,11 @@ img {
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  color: #424242;
+  color: #dbd0dd;
 }
 
 .site-title:visited {
-  color: #424242;
+  color: #dbd0dd;
 }
 
 /* Navigation */
@@ -126,7 +126,7 @@ img {
 }
 
 .dropdown a:hover {
-  background-color: #a4705e;
+  background-color: #26002b;
   color: #fff;
 }
 

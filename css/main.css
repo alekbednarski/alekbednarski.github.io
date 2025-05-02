@@ -163,6 +163,6 @@ img {
   font-size: 20px;
 }
 
-#embed-badge {
+.picflow-gallery-container .ng-star-inserted a {
 	visibility: hidden;
 }

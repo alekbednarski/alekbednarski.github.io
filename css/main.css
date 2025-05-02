@@ -162,3 +162,7 @@ img {
 .page-heading {
   font-size: 20px;
 }
+
+#embed-badge {
+	display: none;
+}

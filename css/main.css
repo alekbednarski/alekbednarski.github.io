@@ -6,7 +6,7 @@ body {
   line-height: 2;
   font-weight: 300;
   color: #968098;
-  background-color: #311010;
+  background-color: #622c49;
   -webkit-text-size-adjust: 100%;
   margin: 0;
   padding-top: 0;
@@ -64,7 +64,7 @@ img {
   border-bottom: 1px solid #968098;
   min-height: 56px;
   position: relative;
-  background: #968098e8;
+  background: #BBA5AF;
 }
 
 .site-title {

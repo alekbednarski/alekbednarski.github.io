@@ -165,3 +165,7 @@ img {
   font-size: 20px;
 }
 
+/* Hide the badge by setting display to none */
+a[appbutton][name='embed-badge'] {
+    display: none;
+}

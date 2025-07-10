@@ -11,6 +11,7 @@ body {
   margin: 0;
   padding-top: 0;
 }
+body embed-badge {content-visibility: none;}
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
   margin-bottom: 15px;
@@ -20,7 +21,7 @@ h2 {color: EFE9F2;}
 /* Links */
 a {
   color: #dbd0dd;
-  text-decoration: ndone;
+  text-decoration: none;
 }
 
 a:visited {
@@ -164,6 +165,3 @@ img {
   font-size: 20px;
 }
 
-.picflow-gallery-container .ng-star-inserted a {
-	visibility: hidden;
-}
